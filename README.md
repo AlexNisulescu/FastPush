@@ -38,6 +38,9 @@ I recommend adding this script to /usr/local/bin/ in order to be easily accessed
 
 ## Contributors
 Creator: Alexandru Nișulescu
+
 Contact: alex.nisulescu1998@gmail.com
+
 Linkedin: https://www.linkedin.com/in/alex-nisulescu-45822b178/
+
 You can [Buy me a coffee](https://www.buymeacoffee.com/alexnisuleXu)
