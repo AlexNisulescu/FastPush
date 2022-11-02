@@ -37,7 +37,7 @@ Some examples of running it are:
 I recommend adding this script to /usr/local/bin/ in order to be easily accessed form anywhere.
 
 ## Contributors
-    Creator: Alexandru Nișulescu
-    Contact: alex.nisulescu1998@gmail.com
-    Linkedin: https://www.linkedin.com/in/alex-nisulescu-45822b178/
-    [Buy me a coffee](https://www.buymeacoffee.com/alexnisuleXu)
+Creator: Alexandru Nișulescu
+Contact: alex.nisulescu1998@gmail.com
+Linkedin: https://www.linkedin.com/in/alex-nisulescu-45822b178/
+You can [Buy me a coffee](https://www.buymeacoffee.com/alexnisuleXu)
