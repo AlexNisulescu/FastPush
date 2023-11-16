@@ -24,13 +24,13 @@ Help()
 # This function will push to Git Repo using the provided data
 push_all(){
 git add .
+branch=$(git branch --show-current)
 if [[ $3 ]]
 then
-	git commit -m "$1" --signoff
+	git commit -m "$branch" --signoff
 else
-	git commit -m "$1"
+	git commit -m "$branch"
 fi
-branch=$(git branch --show-current)
 git push origin $branch
 }
 
